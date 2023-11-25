@@ -1,6 +1,6 @@
 # hackathon-hacks-ai-rutube
 
-Проект с демо: https://github.com/airndlab/hackathon-hacks-ai-rutube
+Проект с демо: https://github.com/airndlab/hackathon-hacks-ai-rutube-demo
 
 ## Notebooks
 
