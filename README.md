@@ -1,5 +1,7 @@
 # hackathon-hacks-ai-rutube
 
+Проект с демо: https://github.com/airndlab/hackathon-hacks-ai-rutube
+
 ## Notebooks
 
 - txtAI keyword -  [txtai-keyword-all_videos.ipynb](txtai-keyword-all_videos.ipynb)
